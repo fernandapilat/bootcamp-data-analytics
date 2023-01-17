@@ -30,5 +30,10 @@ O Kanban possui *cadências*.
 - Jira.
 - Azure DevOps.
 
+---
+## Podcast K21
+
+### Ep. 41 - Primeiros passos com Kanban e Fluxo | [Love the Problem](https://www.youtube.com/watch?v=L3GnOc2jUMk)
+
 
 
