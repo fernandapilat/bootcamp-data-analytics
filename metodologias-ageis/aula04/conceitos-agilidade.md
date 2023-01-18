@@ -29,3 +29,28 @@ A eficiência consiste em fazer certo as coisas: geralmente está ligada ao nív
 
 ### **Eficácia**
 Já a eficácia consiste em fazer as coisas certas: geralmente está relacionada ao nível gerencial.
+
+## Métricas de eficiência
+
+- Números sem contexto são perigosos.
+- Procure tendências e fuja da precisão.
+
+### Tipos de visualizações e conceitos
+
+- Gráfico de Burndown.
+- Troughput (vazão).
+- Leadtime: tempo em que um item toma desde que é considerado pronto para desenvolvimento, até o momento que o time o considera pronto.
+
+## Métricas de eficácia (métricas piratas)
+
+- Aquisição: como os clientes te encontram?
+- Ativação: quando o seu cliente tem o "momento aha"?
+- Receita: como você consegue aumentar a sua receita?
+- Retenção: os clientes voltam a fazer negócio?
+- Indicação: como você pode conseguir novas indicações dos seus clientes?
+
+---
+> Ter sempre cuidado com as métricas de vaidade (exemplo: curtidas em redes sociais)
+
+
+
