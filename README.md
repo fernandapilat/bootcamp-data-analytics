@@ -14,4 +14,5 @@ Neste repositório é possivel conferir diversos conteúdos abordados ao longo d
 |Ágil| Introdução a cultura ágil, 12 princípios e MVP |
 | Scrum | O que é a metodologia scrum, os pilares do scrum, quais são os papéis fundamentais e as etapas do dia a dia. |
 | Kanban | Princípios do Kanban, divisão do board, principais ferramentas utilizadas e dinâmica utilizando Trello.|
+|OKR ||
 |Apresentação do Desafio Python||
