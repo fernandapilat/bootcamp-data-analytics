@@ -137,6 +137,17 @@ Outros tipos de dados que podem ser especificados ao criar uma tabela:
 - BLOB: Um tipo de dados binários de grande tamanho.
 - ENUM: Um tipo de dados enumerado, que permite especificar uma lista de valores possíveis para a coluna.
 
+Além disso, também existem restrições que são regras impostas aos dados em uma tabela no banco de dados para garantir a integridade dos dados. Elas são usadas para impor condições específicas sobre os dados em uma tabela, garantindo que os dados sejam consistentes e precisos.
+
+Existem vários tipos de restrições que podem ser aplicadas a uma tabela no SQL, incluindo:
+
+- NOT NULL: garante que uma coluna não tenha valores nulos.
+- UNIQUE: garante que os valores em uma coluna sejam únicos.
+- PRIMARY KEY: garante que os valores em uma coluna sejam únicos e não nulos, e é usado para identificar de forma única cada linha de uma tabela.
+- FOREIGN KEY: garante que os valores em uma coluna correspondam aos valores de uma coluna de outra tabela, criando uma relação entre as tabelas.
+- CHECK: garante que os valores em uma coluna atendam a uma condição específica.
+- DEFAULT: garante que uma coluna tenha um valor padrão, caso o usuário não especifique um valor.
+
 
 
 ### **NOT NULL** 
