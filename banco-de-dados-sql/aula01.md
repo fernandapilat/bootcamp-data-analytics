@@ -46,3 +46,18 @@
 - Escrevemos as palavras reservadas da linguagem em caixa alta **(SELECT, FROM, WHERE, etc)**. Porém isso é uma convenção de **“boas práticas”** e não é obrigatório.
 - As palavras reservadas da linguagem do **SQL** são em *inglês*.
 - Utilizamos o ; no final de cada query.
+
+
+
+## Bancos de dados disponíveis no mercado
+Existem muitos bancos de dados diferentes disponíveis no mercado, cada um com suas próprias características e sintaxes. Alguns dos bancos de dados mais populares incluem:
+
+MySQL: é um sistema de gerenciamento de banco de dados relacional open source. Ele é amplamente utilizado em aplicações web e é compatível com muitas linguagens de programação, incluindo PHP, Java e C#.
+
+PostgreSQL: é outro sistema de gerenciamento de banco de dados relacional open source. Ele é conhecido por sua alta escalabilidade e suporte a recursos avançados, como transações e gatilhos.
+
+Oracle: é um banco de dados comercial que é usado em muitas empresas e organizações governamentais. Ele é conhecido por sua escalabilidade e segurança, além de ser compatível com muitas linguagens de programação.
+
+Microsoft SQL Server: é um banco de dados comercial desenvolvido pela Microsoft. Ele é usado principalmente em sistemas Windows e é compatível com muitas linguagens de programação, incluindo C# e Visual Basic.
+
+SQLite: é um banco de dados relacional embutido de código aberto que é projetado para ser usado em dispositivos móveis e aplicativos embarcados. Ele é conhecido por sua simplicidade e facilidade de uso.  
