@@ -75,8 +75,22 @@ CONCAT( SUBSTRING(first_name, 1, 1),
 
 -- 1 - Na tabela actor, agrupe os registros pelo last_name para saber quantos atores têm o mesmo sobrenome.
 
+SELECT last_name, count(last_name) as count FROM actor
+GROUP BY last_name
+ORDER BY count DESC;
+
 -- 2 - Na tabela customer, conte a quantidade de clientes ativos e inativos (bonus: colocar as palavras ativo e inativo, em vez de 0 e 1)
 
+SELECT 
+CASE
+WHEN active = 1 THEN 'Ativo'
+WHEN active = 0 THEN 'Inativo'
+ELSE NULL
+END as 'active',
+COUNT(customer_id) AS count 
+FROM
+    customer
+GROUP BY active; 
 
 -- Exercícios para casa
 
