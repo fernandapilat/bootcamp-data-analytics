@@ -11,5 +11,6 @@ Aqui é possível encontrar diversas [funções do MySQL](https://www.w3schools.
 |Aula 01|Instalar e acessar o banco de dados MySQL e introdução aos comandos SELECT e filtre com WHERE.|
 |Aula 02|Utilizando os comandos SELECT, WHERE, INSERT, UPDATE, DELETE, ORDER BY, CREATE TABLE e ALTER TABLE.|
 |Aula 03|Utilizando os comandos LIMIT, HAVING, LEFT e RIGHT JOIN|
+|Aula 04|Utilizando o comando GROUP BY, Sub-queries e aprendendo funções do MySQL |
 
 
