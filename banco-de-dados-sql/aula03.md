@@ -67,25 +67,6 @@ JOIN products ON orders.product_id = products.product_id;
 
 Neste exemplo, estamos selecionando dados de três tabelas: orders, customers e products. Estamos unindo as tabelas orders e customers usando a cláusula ON e especificando que a coluna customer_id na tabela orders deve ser igual à coluna customer_id na tabela customers. Da mesma forma, estamos unindo a tabela orders com a tabela products usando a cláusula ON e especificando que a coluna product_id na tabela orders deve ser igual à coluna product_id na tabela products.
 
-## **LIMIT**
-O comando LIMIT é usado em consultas SQL para limitar o número de linhas retornadas em um resultado de consulta. Ele é usado geralmente em conjunto com a cláusula ORDER BY para paginação de resultados. A sintaxe básica é:
-
-```SQL
-SELECT coluna1, coluna2
-FROM tabela
-LIMIT n;
-```
-Onde n é o número de linhas a serem retornadas. Também é possível especificar dois argumentos para o LIMIT, para especificar a partir de qual linha começar e quantas linhas retornar:
-
-```SQL
-SELECT coluna1, coluna2
-FROM tabela
-LIMIT inicio, quantidade;
-```
-
-## **HAVING**
-O comando HAVING é usado em conjunto com o GROUP BY para filtrar resultados de uma consulta agrupada. Ele funciona de forma semelhante ao WHERE, mas é aplicado após o agrupamento dos resultados. Ele é usado para filtrar grupos de resultados baseando-se em uma condição relacionada a uma ou mais colunas agrupadas. Por exemplo, se você quiser selecionar todos os departamentos com mais de 10 funcionários, você pode usar HAVING COUNT(*) > 10.
-
 ### Exemplo com todos os comandos aprendidos em aula até aqui:
 
 ```SQL
