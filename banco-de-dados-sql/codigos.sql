@@ -96,8 +96,23 @@ GROUP BY active;
 
 -- 1 - Faça um select que recupere o nome do cliente na tabela customer e o distrito na tabela address.
 
--- 2 - Busca a quantidade de filmes agrupando pelo idioma do filme.
+SELECT language.name, COUNT(film.film_id)
+FROM film 
+JOIN language ON film.language_id = language.language_id
+GROUP BY language.name;
+
+-- 2 - Busque a quantidade de filmes agrupando pelo idioma do filme.
+
+SELECT language.name, COUNT(film.film_id)
+FROM film
+JOIN language ON film.language_id = language.language_id
+GROUP BY language.name;
 
 -- 3 - Recupere o nome e sobrenome do cliente (customer) e a quantidade de locações (rental) que ele fez, com ordenação do maior para o menor.
 
--- Desafio: descobrir qual o filme mais lucrativo para a locadora até o momento.
+SELECT customer.first_name, customer.last_name, COUNT(rental.rental_id) qtd
+FROM customer
+JOIN rental ON customer.customer_id = rental.customer_id
+GROUP BY customer.customer_id
+ORDER BY qtd DESC
+
