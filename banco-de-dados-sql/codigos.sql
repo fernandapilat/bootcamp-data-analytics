@@ -116,3 +116,12 @@ JOIN rental ON customer.customer_id = rental.customer_id
 GROUP BY customer.customer_id
 ORDER BY qtd DESC
 
+-- Desafio: descobrir qual o filme mais lucrativo para a locadora até o momento.
+
+SELECT film.title, SUM(payment.amount) total
+FROM payment
+JOIN rental ON payment.rental_id = rental.rental_id
+JOIN inventory ON inventory.inventory_id = rental.inventory_id
+JOIN film ON film.film_id = inventory.film_id
+GROUP BY film.film_id
+ORDER BY total DESC;
