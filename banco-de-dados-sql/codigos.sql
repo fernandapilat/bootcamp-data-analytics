@@ -125,3 +125,10 @@ JOIN inventory ON inventory.inventory_id = rental.inventory_id
 JOIN film ON film.film_id = inventory.film_id
 GROUP BY film.film_id
 ORDER BY total DESC;
+
+-- Frequência de dias da semana em que filmes mais são alugados, sendo dias da semana no formato "segunda", "terça", etc e a frequência em percentual?
+
+SELECT DAYNAME(rental_date) AS day_of_week,
+       ROUND(COUNT(*)/(SELECT COUNT(*) FROM rental) * 100, 2) AS percentual -- ROUND vem no início
+FROM rental
+GROUP BY DAYNAME(rental_date);
