@@ -17,6 +17,13 @@ Plano de estudos oferecido pela Alura em parceria com a Womakerscode, no qual, v
 |Estatística com Python|Probabilidade e amostragem|Nível e intervalo de confiança|
 |Estatística com Python|Probabilidade e amostragem|Calculando o tamanho da amostra|
 |Estatística com Python|Probabilidade e amostragem|Resumo e projeto final|
+|Estatística com Python|Testes de hipóteses|Teste de normalidade e as etapas de um teste|
+|Estatística com Python|Testes de hipóteses|Teste bicaudal e entendendo o p-valor|
+|Estatística com Python|Testes de hipóteses|Distribuição t de Student e o teste unicaudal|
+|Estatística com Python|Testes de hipóteses|Teste para duas amostras|
+|Estatística com Python|Testes de hipóteses|Distribuição Qui-Quadrado|
+|Estatística com Python|Testes de hipóteses|Teste de Wilcoxon e Mann-Whitney|
+|Estatística com Python|Testes de hipóteses|Resumo e projeto final|
 
 
 >💡 Esse repositório esta em desenvolvimento!
