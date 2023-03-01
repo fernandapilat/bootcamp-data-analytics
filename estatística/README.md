@@ -24,6 +24,11 @@ Plano de estudos oferecido pela Alura em parceria com a Womakerscode, no qual, v
 |Estatística com Python|Testes de hipóteses|Distribuição Qui-Quadrado|
 |Estatística com Python|Testes de hipóteses|Teste de Wilcoxon e Mann-Whitney|
 |Estatística com Python|Testes de hipóteses|Resumo e projeto final|
+|Estatística com Python|Correlação e Regressão|A primeira regressão|
+|Estatística com Python|Correlação e Regressão|Entendendo a covariância|
+|Estatística com Python|Correlação e Regressão|Usando regressão linear|
+|Estatística com Python|Correlação e Regressão|Testando os resultados|
+|Estatística com Python|Correlação e Regressão|Projeto e resumo|
 
 
 >💡 Esse repositório esta em desenvolvimento!
