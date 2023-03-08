@@ -29,6 +29,14 @@ Plano de estudos oferecido pela Alura em parceria com a Womakerscode, no qual, v
 |Estatística com Python|Correlação e Regressão|Usando regressão linear|
 |Estatística com Python|Correlação e Regressão|Testando os resultados|
 |Estatística com Python|Correlação e Regressão|Projeto e resumo|
+|Estatística com Python|Regressão linear|Análises preliminares|
+|Estatística com Python|Regressão linear|Comportamento da variável dependente|
+|Estatística com Python|Regressão linear|Variável dependente vs Variáveis explicativas|
+|Estatística com Python|Regressão linear|Datasets de treino e teste|
+|Estatística com Python|Regressão linear|Comparando modelos|
+|Estatística com Python|Regressão linear|Salvando e carregando o modelo|
+|Estatística com Python|Regressão linear|Novo Projeto|
+
 
 
 >💡 Esse repositório esta em desenvolvimento!
