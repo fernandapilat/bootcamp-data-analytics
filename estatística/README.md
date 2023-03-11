@@ -36,7 +36,3 @@ Plano de estudos oferecido pela Alura em parceria com a Womakerscode, no qual, v
 |Estatística com Python|Regressão linear|Comparando modelos|
 |Estatística com Python|Regressão linear|Salvando e carregando o modelo|
 |Estatística com Python|Regressão linear|Novo Projeto|
-
-
-
->💡 Esse repositório esta em desenvolvimento!
