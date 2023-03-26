@@ -18,5 +18,7 @@ Neste repositório é possivel conferir diversos conteúdos abordados ao longo d
 |Apresentação do Desafio Python| A squad foi escolhida para apresentar o desafio 4 sobre o Campeonato de Futebol Bundesliga. |
 |Banco de dados MySQL|Aprendendo a instalar o MySQL, principais comandos e funções da linguagem SQL.|
 |Estatística|Frequências e medidas, probabilidade e amostragem, teste de hipóteses, correlação e regressão e modelos regressivos.|
+|Visualizações de Dados| Utilizando as bibliotecas Seaborn e Matplotlib da linguagem Python para criar visualizações gráficas.|
+|Análise de dados|Introdução ao Google Planilhas para análise e manipulação de dados.
 
 >💡 Esse repositório esta em desenvolvimento!

@@ -1,6 +1,6 @@
-# **Data Visualization: explorando com Seaborn**
+# **Data Visualization**
 
-Plano de estudos oferecido pela Alura em parceria com a Womakerscode, no qual, vamos nos aprofundar na biblioteca Seaborn da linguagem Python para criar visualizações gráficas.
+Plano de estudos oferecido pela Alura em parceria com a Womakerscode, no qual, vamos nos aprofundar na biblioteca Seaborn e Matplotlib da linguagem Python para criar visualizações gráficas.
 
 |Curso|Módulo|Aulas|
 |--|--|--|
