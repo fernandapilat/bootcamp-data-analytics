@@ -14,5 +14,15 @@ Plano de estudos oferecido pela Alura em parceria com a Womakerscode, no qual, v
 |Data Analysis|Previsões com Google Sheets|Sazonalidade|
 |Data Analysis|Previsões com Google Sheets|Técnicas de previsão com sazonalidade|
 |Data Analysis|Previsões com Google Sheets|A importância dos Dados|
+|Data Analysis|Estatística com Google Sheets|Probabilidade|
+|Data Analysis|Estatística com Google Sheets|Análises e dilemas|
+|Data Analysis|Estatística com Google Sheets|Medidas|
+|Data Analysis|Estatística com Google Sheets|Médias pitagóricas|
+|Data Analysis|Estatística com Google Sheets|Churn|
+|Data Analysis|Data Visualization|Storytelling|
+|Data Analysis|Data Visualization|Gestalt|
+|Data Analysis|Data Visualization|Resumindo dados|
+|Data Analysis|Data Visualization|Utilizando as barras|
+|Data Analysis|Data Visualization|Gráfico de pizza vilão?|
 
 >💡 Esse repositório esta em desenvolvimento!

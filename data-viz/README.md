@@ -14,13 +14,3 @@ Plano de estudos oferecido pela Alura em parceria com a Womakerscode, no qual, v
 |Data Analysis|Criação de gráficos com o Matplotlib|Anotações e diversos gráficos|
 |Data Analysis|Criação de gráficos com o Matplotlib|Visualizando dados diferentes|
 |Data Analysis|Criação de gráficos com o Matplotlib|Customizando Histogramas|
-|Data Analysis|Estatística com Google Sheets|Probabilidade|
-|Data Analysis|Estatística com Google Sheets|Análises e dilemas|
-|Data Analysis|Estatística com Google Sheets|Medidas|
-|Data Analysis|Estatística com Google Sheets|Médias pitagóricas|
-|Data Analysis|Estatística com Google Sheets|Churn|
-|Data Analysis|Data Visualization|Storytelling|
-|Data Analysis|Data Visualization|Gestalt|
-|Data Analysis|Data Visualization|Resumindo dados|
-|Data Analysis|Data Visualization|Utilizando as barras|
-|Data Analysis|Data Visualization|Gráfico de pizza vilão?|
