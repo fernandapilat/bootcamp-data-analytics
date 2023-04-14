@@ -19,3 +19,8 @@ Plano de estudos oferecido pela Alura em parceria com a Womakerscode, no qual, v
 |Data Analysis|Estatística com Google Sheets|Medidas|
 |Data Analysis|Estatística com Google Sheets|Médias pitagóricas|
 |Data Analysis|Estatística com Google Sheets|Churn|
+|Data Analysis|Data Visualization|Storytelling|
+|Data Analysis|Data Visualization|Gestalt|
+|Data Analysis|Data Visualization|Resumindo dados|
+|Data Analysis|Data Visualization|Utilizando as barras|
+|Data Analysis|Data Visualization|Gráfico de pizza vilão?|
