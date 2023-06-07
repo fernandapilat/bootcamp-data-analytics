@@ -24,5 +24,3 @@ Plano de estudos oferecido pela Alura em parceria com a Womakerscode, no qual, v
 |Data Analysis|Data Visualization|Resumindo dados|
 |Data Analysis|Data Visualization|Utilizando as barras|
 |Data Analysis|Data Visualization|Gráfico de pizza vilão?|
-
->💡 Esse repositório esta em desenvolvimento!
