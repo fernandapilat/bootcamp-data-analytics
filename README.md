@@ -18,7 +18,8 @@ Neste repositório é possivel conferir diversos conteúdos abordados ao longo d
 |Apresentação do Desafio Python| A squad foi escolhida para apresentar o desafio 4 sobre o Campeonato de Futebol Bundesliga. |
 |Banco de dados MySQL|Aprendendo a instalar o MySQL, principais comandos e funções da linguagem SQL.|
 |Estatística|Frequências e medidas, probabilidade e amostragem, teste de hipóteses, correlação e regressão e modelos regressivos.|
-|Visualizações de Dados| Utilizando as bibliotecas Seaborn e Matplotlib da linguagem Python para criar visualizações gráficas.|
-|Análise de dados|Introdução ao Google Planilhas para análise e manipulação de dados.
-
->💡 Esse repositório esta em desenvolvimento!
+|Visualizações de Dados|Utilizando as bibliotecas Seaborn e Matplotlib da linguagem Python para criar visualizações gráficas.|
+|Análise de dados|Introdução ao Google Planilhas para análise e manipulação de dados.|
+|Fundamentos e Power BI|Principais conectores e fontes de dados, Transformação de dados, Modelagem de dados, Visualizações e painéis e Compartilhamento.|
+|Microsoft Azure|Explorar a análise de dados no Azure, Azure Synapse Analytics, Microsoft Purview, Integrar o Microsoft Purview e o Azure Synapse Analytics.|
+|Projeto Final|Desenvolvimento de um modelo de previsão de bullying.|
